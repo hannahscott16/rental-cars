@@ -55,6 +55,7 @@ export default {
           secondary: '#1670b7',
           info: '#000000',
           success: '#00874d',
+          white: '#ffffff',
         },
       },
     },
